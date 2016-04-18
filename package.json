@@ -1,0 +1,33 @@
+{
+  "name": "directory-files",
+  "version": "1.0.0",
+  "description": "Recursively get full absolute paths of all files in a given directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "semistandard"
+  },
+  "author": {
+    "name": "Alexey Gorokhov",
+    "email": "alexey.gorokhov@icloud.com",
+    "url": ""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "semistandard": "^7.0.5"
+  },
+  "semistandard": {
+    "ignore": ["debug/"]
+  },
+  "keywords": [
+    "directory",
+    "files"
+  ],
+  "homepage": "https://github.com/AlexeyGorokhov/directory-files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexeyGorokhov/directory-files"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexeyGorokhov/directory-files/issues"
+  }
+}
