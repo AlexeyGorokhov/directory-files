@@ -23,6 +23,11 @@ for (const fileName of fileNames) {
 }
 ```
 
+
+## Options
+
+use `{relative: true}` for relative paths
+
 ## API
 
 ### `directoryFiles(dir)`
